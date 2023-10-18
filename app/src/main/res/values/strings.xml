@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PigeonShop</string>
+    <string name="purchasesFindWordHint">Поиск товаров</string>
 </resources>
